@@ -1,6 +1,6 @@
 # Ex.2-Cloud-storage-creation-S3-and-launching-an-Ec2-instance-in-AWS
-# Name: Varadaram SK
-# Register no: 212223040232
+# Name: Yokesh D
+# Register no: 212222220061
 # Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2
 instance in AWS.
