@@ -3,7 +3,9 @@
 # Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2
 instance in AWS.
-Procedure
+
+
+# Procedure:
 a) Steps to Create a first S3 Bucket:
 
 Step 1: Sign in to the AWS Management Console
